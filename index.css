@@ -1,0 +1,15 @@
+#daddy{
+    display:flex;
+    justify-content:space-between;
+    background-color: #B76E79;
+    text-align: center;
+}
+
+#ting{
+   display: grid;
+    justify-content:center;
+}
+
+#ting>div{
+    margin:2px
+}
